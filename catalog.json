@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "Sh67443",
+      "name": "Redmi 12",
+      "desc": "Redmi it is best phone",
+      "price": 2345,
+      "color": "#33505a",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q=70"
+    },
+    {
+      "id": "Sh67443",
+      "name": "Realme 12",
+      "desc": "Redmi it is best phone",
+      "price": 1234,
+      "color": "#33505a",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q=70"
+    },
+    {
+      "id": "Sh67443",
+      "name": "Oppo 12",
+      "desc": "Redmi it is best phone",
+      "price": 3456,
+      "color": "#33505a",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q=70"
+    },
+    {
+      "id": "Sh67447",
+      "name": "iphone 12",
+      "desc": "iphone it is best phone",
+      "price": 345,
+      "color": "#33505a",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q=70"
+    }
+  ]
+}
